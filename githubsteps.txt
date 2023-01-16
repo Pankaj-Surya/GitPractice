@@ -30,3 +30,16 @@
    git remote add origin https://github.com/      Pankaj-Surya/GitPractice.git
    git branch -M main
    git push -u origin main
+
+
+ git log // all commint log
+ git checkout hashcommit
+ ## branch
+ 1.git branch dev // dev branch created 
+ 2.git checkout dev // move to dev branch
+ 3.shorthand git checkout -b branchName
+
+ 4. git branch pankaj/multiply 
+    add commit
+ 5. git checkout -b dev
+ 6. git merge  pankaj/multiply 
